@@ -7,7 +7,7 @@ It is suggested to read the advancement descriptions as you obtain them in game.
 Here is a list of the advancements and how to obtain them: 
 
 ??? warning "Spoiler: Civilization"
-    |              **Achievement**              |                                                                        **Description**                                                                         |               **How-to**               |
+    |              **Achievement**              |                                                                        **Description**                                                                         |               **Criteria**               |
     |:-----------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------:|
     | Children of Drehmal                       | All Drehmari are welcome here. Stay and rest, tomorrow can wait                                                                                                | Discover [[Drabyel]]                       |
     | City of Tides                             | Once ruled by a tyrannic Tide-Queen, now they are free                                                                                                         | Discover [[Firteid]]                       |
